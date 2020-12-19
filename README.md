@@ -1,3 +1,3 @@
 # Jamie Matthews Documentation
 
-[Privacy Promise](https://jamium.github.io/docs/privacypolicy.md)
+[Privacy Promise](https://jamium.github.io/docs/privacypolicy)
